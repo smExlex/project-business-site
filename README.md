@@ -1,12 +1,16 @@
 # Business Site
 
-Replace this readme with your own information about your project. 
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+The assignment was to create a landing page for a business using html Forms.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Teamwork with Emmy Dieden, Julia Holm, Vera Witting and myself. We were mob programming for the first time.
+
+We started out with brainstorming and a basic design in figma. The goal was to create a site with a form for ordering oranges in different forms.
+
+The goal was to use Forms so that's what we started out with. We got to use our new skills from our previous project, like flexbox. We could even post to a server
+
+We didn't quite get to do everything we wanted to. If we had more time we would use it on our CSS. The form is working, but it could look prettier. Also, we wanted to put in a "quantity" box after every orange product.
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://orangecounty.netlify.app/
